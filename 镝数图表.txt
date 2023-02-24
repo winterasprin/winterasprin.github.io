@@ -1,5 +1,1 @@
 图1.<iframe src="https://dycharts.com/xshow/index.html?id=c_278de39e02d69ca42749901939063c81" width="1200" height="870" scrolling="no" frameborder="0" align=""></iframe>
-图2：     <iframe src="https://dycharts.com/xshow/index.html?id=c_644ef6379b91b767f29fd7419110fc23" width="1200" height="870" scrolling="no" frameborder="0" align=""></iframe>
-图3：    <iframe src="https://dycharts.com/xshow/index.html?id=c_d51ec1064031a898ed2a4d2bb457a6a4" width="1100" height="870" scrolling="no" frameborder="0" align=""></iframe>
-图5：    <iframe src="https://dycharts.com/xshow/index.html?id=c_ba70f251e89572546fd5182516030224" width="600" height="470" scrolling="no" frameborder="0" align=""></iframe>
-图6：     <iframe src="https://dycharts.com/xshow/index.html?id=c_40abefcd92f485e29115906d09252d0e" width="600" height="470" scrolling="no" frameborder="0" align=""></iframe>
